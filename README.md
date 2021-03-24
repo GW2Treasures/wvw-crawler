@@ -1,10 +1,12 @@
-gw2treasures-wvw-crawler
-========================
+**Moved to https://github.com/GW2Treasures/gw2treasures.com/tree/main/wvw-crawler**
+
+---
+
+# gw2treasures-wvw-crawler
 
 Crawls the Guild Wars 2 WvW APIs for current scores
 
-Setup
-=====
+## Setup
 
 1. `npm install`
 2. Copy the `config-sample.json` to `config.json` and adjust mysql user/db/password
